@@ -1,0 +1,6 @@
+{
+  "$schema": "my_schema.json",
+  "locality": "Richmond",
+  "region": "VIC",
+  "countryName": "AU"
+}
